@@ -41,7 +41,7 @@ ESP-IDF examples:
 
 ## Supporting Artifacts
 
-- [Explanation video](https://drive.google.com/open?id=18MveJQd4B2_8gurRB1CdRJm_35krtqUq)
+
 - [In Class Demo](https://drive.google.com/drive/folders/1CMqP51b28YTGMkowZZaXwGW9CKCWRetu?ogsrc=32)
 
 Reminders
